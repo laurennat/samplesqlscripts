@@ -1,0 +1,1 @@
+Sql scripts taken from the AdventureWorks sample script repo: https://github.com/microsoft/sql-server-samples/tree/master
